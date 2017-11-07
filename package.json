@@ -1,0 +1,14 @@
+{
+  "name": "simple_clock_with_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple_clock.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
